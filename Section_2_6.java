@@ -3,7 +3,9 @@
  * @email [adellaiz@student.ub.ac.id]
  * @create date 2020-07-10 11:33:36
  * @modify date 2020-07-10 11:37:14
- * @desc [description]
+ * @desc [(Sum the digits in an integer) Write a program that reads an integer between 0 and
+1000 and adds all the digits in the integer. For example, if an integer is 932, the
+sum of all its digits is 14.]
  */
 package Chapter_2_Section;
 import java.util.Scanner;
